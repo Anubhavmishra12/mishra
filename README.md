@@ -1,2 +1,2 @@
 # mishra
-this is for a tutoril of oull request
+this is for a tutorial of pull request
